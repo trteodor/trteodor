@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, there! I'm Teodor, an Embedded Systems Engineer. 
+  Hi, there! I'm Teodor, an Embedded Software Engineer. 
 </h1>
 <hr>
 <h3>
