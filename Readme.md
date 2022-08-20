@@ -20,7 +20,7 @@ I also prepared several projects using MCU:
       * and few projects more :) 
   
 
-  ### Languages:
+  ### Languages&Technologies:
 <img align="left" alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>
 <img align="left" alt="C++" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c%2B%2B.png"/>
 <img align="left" alt="GNUmake" width="70px" src="https://github.com/trteodor/trteodor/blob/master/gnu-make.png"/>
