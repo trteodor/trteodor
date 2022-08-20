@@ -4,13 +4,22 @@ Hi, there! I'm Teodor, an Embedded Software Engineer.
 <h3>
 A few words about my experience:
   
-  Actually i have experience with MCU drivers, like usart, i2c, spi, rcc, flash, ethernet, usb, unit tests in embedded systems, own RTOS, and build systems with GNU make file.
+  Actually i have experience with:
+  * usart, i2c, spi, rcc, flash, (MCU Drivers)
+  * ethernet, usb, 
+  * unit tests in embedded systems, 
+  * RTOS (I even managed to create a simple RTOS),
+  * build systems with GNU make file.
+  * 
   
-  I also prepared a DLTuc library parially compliance with autosar DLT protocool.
+I also prepared several projects using MCU:
+  * DLTuc library parially compliance with autosar DLT protocool.
+  * Line Follower robot
+  * prototype system using Mifare cards to management work time
+  * Game Controller
+      * and few projects more :) 
   
-I put a lot of my projects in the repositories available on this profile, if you want you can see them and use them in almost any way compatible with the licenses assigned to them. 
 
-When I started my adventure with microcontrollers, I created in my opinion its professional / advanced project of Line Follower Light. You can find this project here: https://github.com/trteodor/LineFollower_Light
 </h3>
 
 </h1>
