@@ -29,10 +29,8 @@ I also prepared several projects using MCU:
 <img align="left" alt="Python" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> 
 
 <br />
- 
-  ---
+ ---
 </h3>
-
 </h1>
 <hr>
 <h3>
