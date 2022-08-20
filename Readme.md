@@ -2,9 +2,7 @@
 Hi, there! I'm Teodor, an Embedded Software Engineer. 
 <hr>
 <h3>
-A few words about my experience:
-  
-  Actually i have experience with:
+Actually i have experience with:
   * usart, i2c, spi, rcc, flash, (MCU Drivers)
   * ethernet, usb, 
   * unit tests in embedded systems, 
