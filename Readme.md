@@ -20,6 +20,17 @@ I also prepared several projects using MCU:
       * and few projects more :) 
   
 
+  ### Languages:
+<img align="left" alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>
+<img align="left" alt="C++" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c%2B%2B.png"/>
+<img align="left" alt="GNUmake" width="70px" src="https://github.com/trteodor/trteodor/blob/master/gnu-make.png"/>
+<img align="left" alt="git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img align="left" alt="GitHub" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/>
+<img align="left" alt="Python" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> 
+
+<br />
+ 
+  ---
 </h3>
 
 </h1>
@@ -31,16 +42,7 @@ I like programming that's why i'am here, if you have question just shoot an emai
 
 ⭐ [LinkedIn](https://www.linkedin.com/in/teodor-roso%C5%82owski-a905b9203/) 
 
-### Languages:
----
-<img align="left" alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>
-<img align="left" alt="C++" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c%2B%2B.png"/>
-<img align="left" alt="GNUmake" width="70px" src="https://github.com/trteodor/trteodor/blob/master/gnu-make.png"/>
-<img align="left" alt="git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img align="left" alt="GitHub" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/>
-<img align="left" alt="Python" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> 
 
-<br />
 
 <br />
 
