@@ -8,7 +8,7 @@ A few words about my experience:
   
   I also prepared a DLTuc library parially compliance with autosar DLT protocool.
   
-If you want you can see my projects, I managed to put a large part of them in the repositories available on this profile.
+I put a lot of my projects in the repositories available on this profile, if you want you can see them and use them in almost any way compatible with the licenses assigned to them. 
 
 When I started my adventure with microcontrollers, I created in my opinion its professional / advanced project of Line Follower Light. You can find this project here: https://github.com/trteodor/LineFollower_Light
 </h3>
