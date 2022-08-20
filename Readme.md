@@ -13,8 +13,8 @@ A few words about my experience:
 
   
 I also prepared several projects using MCU:
-  * DLTuc library parially compliance with autosar DLT protocool.
   * Line Follower robot
+  * DLTuc library parially compliance with autosar DLT protocool.
   * prototype system using Mifare cards to management work time
   * Game Controller
       * and few projects more :) 
