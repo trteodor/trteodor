@@ -10,7 +10,7 @@ A few words about my experience:
   * unit tests in embedded systems, 
   * RTOS (I even managed to create a simple RTOS),
   * build systems with GNU make file.
-  * 
+      * and a few more projects :)
   
 I also prepared several projects using MCU:
   * DLTuc library parially compliance with autosar DLT protocool.
