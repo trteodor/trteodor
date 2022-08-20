@@ -1,4 +1,5 @@
 <h1 align="center">
+
   Hi, there! I'm Teodor, an Embedded Software Engineer. 
   
   Actually i have experience with MCU drivers, like usart, i2c, spi, rcc, flash, ethernet, usb, unit tests in embedded systems, own RTOS, and build systems with GNU make file.
