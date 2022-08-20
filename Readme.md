@@ -1,7 +1,7 @@
 <h1 align="center">
-
-  Hi, there! I'm Teodor, an Embedded Software Engineer. 
-  
+Hi, there! I'm Teodor, an Embedded Software Engineer. 
+<hr>
+<h3>
   Actually i have experience with MCU drivers, like usart, i2c, spi, rcc, flash, ethernet, usb, unit tests in embedded systems, own RTOS, and build systems with GNU make file.
   
   I also prepared a DLTuc library parially compliance with autosar DLT protocool.
@@ -9,7 +9,8 @@
 If you want you can see my projects, I managed to put a large part of them in the repositories available on this profile.
 
 When I started my adventure with microcontrollers, I created in my opinion its professional / advanced project of Line Follower Light, with this construction you may win Competition of Robots in this category! You can find this project here: https://github.com/trteodor/LineFollower_Light
-  
+</h3>
+
 </h1>
 <hr>
 <h3>
