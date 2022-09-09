@@ -10,6 +10,7 @@ Actually i have experience with:
   * unit tests in embedded systems, 
   * RTOS (I even managed to create a simple RTOS),
   * build systems with GNU make file.
+  * Integration exterial libraries, Software Integrated packages, to build systems basen on makefile
 
   
 I also prepared several projects using MCU:
