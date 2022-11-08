@@ -1,10 +1,8 @@
 <h1 align="center">
 Hi, there! I'm Teodor, an Embedded Software Engineer. 
 <hr>
+ To see my pinned projects, please scroll down a little :)
 <h3>
- 
-**_To see my pinned projects, please scroll down a little :)_**
- 
 Actually i have experience with:
  
   * usart, i2c, spi, rcc, flash, (MCU Drivers)
