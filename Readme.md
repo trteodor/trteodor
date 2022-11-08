@@ -3,7 +3,7 @@ Hi, there! I'm Teodor, an Embedded Software Engineer.
 <hr>
 <h3>
  
-**_To see my pinned projects, scroll down a little :)_**
+**_To see my pinned projects, please scroll down a little :)_**
  
 Actually i have experience with:
  
