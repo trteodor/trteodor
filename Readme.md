@@ -25,4 +25,4 @@ I have wide experience with:
   * Multithread programming (RTOS)
   * Implementing build systems with GNU make file / cmakemake
 
-Below you will find my pinned projects that I'm most pleased:
+Below you will find my pinned open source projects that I'm most pleased:
