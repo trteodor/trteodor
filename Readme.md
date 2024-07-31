@@ -2,7 +2,7 @@
 
 ⭐ [LinkedIn](https://www.linkedin.com/in/teodor-roso%C5%82owski-a905b9203/) 
 
-### Known Languages&Technologies:
+### Known Technologies:
 <img align="left" alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>
 <img align="left" alt="C++" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c%2B%2B.png"/>
 <img align="left" alt="Python" width="30px" src="https://github.com/trteodor/trteodor/blob/master/qt_ico.png"/> 
@@ -18,9 +18,11 @@
 <br />
 
 I have wide experience with:
-  * Low level drivers / communication interfaces like: USART, I2C, SPI, RCC, Ethernet, USB
-  * Unit tests - in embedded systems
-  * RTOS / Multithread programming (I even managed to create a simple RTOS)
-  * Implementing build systems with GNU make file
+  * C/ C++ / Embedded systems
+  * Low level drivers
+  * Communication interfaces like: USART, I2C, SPI, RCC, Ethernet, USB
+  * Unit tests
+  * Multithread programming (RTOS)
+  * Implementing build systems with GNU make file / cmakemake
 
 Below you will find my pinned projects that I'm most pleased:
