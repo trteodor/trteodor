@@ -17,12 +17,4 @@
 <br />
 <br />
 
-I have wide experience with:
-  * C/ C++ / Embedded systems
-  * Low level drivers
-  * Communication interfaces like: USART, I2C, SPI, RCC, Ethernet, USB
-  * Unit tests
-  * Multithread programming (RTOS)
-  * Implementing build systems with GNU make file / cmakemake
-
 Below you will find my pinned open source projects that I'm most pleased:
