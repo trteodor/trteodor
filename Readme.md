@@ -1,4 +1,3 @@
-# Hi, there! I'm Teodor, an Embedded Software Engineer.
 
 ⭐ [LinkedIn](https://www.linkedin.com/in/teodor-roso%C5%82owski-a905b9203/) 
 
